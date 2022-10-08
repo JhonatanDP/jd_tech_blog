@@ -2,7 +2,7 @@
 
 Project Repository address: https://github.com/JhonatanDP/jd_tech_blog
 
-Project walkthrough video:https://drive.google.com/file/d/1_FeHxG8z56tp-TaT61CSB0ZKkGj_Rxy_/view?usp=sharing
+Project live URL: https://jd-tech-blog.herokuapp.com/
 
 
 ## User Story
