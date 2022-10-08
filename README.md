@@ -50,8 +50,10 @@ Project walkthrough video:https://drive.google.com/file/d/1_FeHxG8z56tp-TaT61CSB
 
 ## Done to complete Project.
 
-- I installed mysql, sequelize, bcrypt. dotenv.
-- I added necessary columns to different models files.
+- I installed mysql, sequelize, bcrypt. dotenv, express-session, express-handlebars, 
+- I created and design app based on MVC.
+- I created the necessary Views files for the dashboard, login, signup and post.
 - I added neccessary routes to files.
 - I created an env. file to keep mysql login information.
+- I created a seeds file to input some test data to the application.
 - I used sequelize to connect to mysql.
